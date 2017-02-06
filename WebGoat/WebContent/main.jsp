@@ -12,7 +12,7 @@ AbstractLesson currentLesson = webSession.getCurrentLesson();
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
-<title><%=currentLesson.getTitle()%></title>
+<title><%=currentLesson.getTitle()%> test1234 </title>
 <link rel="stylesheet" href="css/webgoat.css" type="text/css" />
 <link rel="stylesheet" href="css/lesson.css" type="text/css" />
 <link rel="stylesheet" href="css/menu.css" type="text/css" />
